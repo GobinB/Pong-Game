@@ -58,7 +58,6 @@ score_a = 0
 score_b = 0
 
 # creating a Function to make the paddle and the ball move
-# to create Functions, you have to define them first. Then call the function at the end. 
 
 def paddle_a_up():
     y = paddle_a.ycor()
